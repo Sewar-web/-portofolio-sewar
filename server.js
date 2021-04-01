@@ -24,7 +24,7 @@ server.use(express.static('./public'));
 
 
 // localhost:7777/test ->http request (/test->route)
-server.get('/s', (req ,res) =>{
+server.get('7', (req ,res) =>{
 res.send('sewar home')
 })
 
