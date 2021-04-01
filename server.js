@@ -38,7 +38,7 @@ res.send('sewar home')
 
 // localhost:7777/data ->http request (/data->route)
 server.get('/test',(request,response)=>{
-    response.send('You server is alive!!')
+    response.send('You server SEWAR is alive!!')
 })
 
 server.get('/data',(req,res)=>{
