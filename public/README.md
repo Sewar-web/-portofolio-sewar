@@ -22,15 +22,15 @@ For today's lab assignment, you will work independently to create a personal por
 For each of the features listed below, make an estimate of the time it will take you to complete the feature, and record your start and finish times for that feature:
 
 ```
-Number and name of feature: ________________________________
+Number and name of feature: _______lab 05 portofolio and deploy heruko_________________________
 
-Estimate of time needed to complete: _____
+Estimate of time needed to complete: __1 day___
 
-Start time: _____
+Start time: ___3 pm__
 
-Finish time: _____
+Finish time: __8pm___
 
-Actual time needed to complete: _____
+Actual time needed to complete: __5 hour___
 ```
 
 Add this information to your README.
